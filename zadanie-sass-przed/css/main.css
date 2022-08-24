@@ -10586,11 +10586,11 @@ body h6 {
   font-size: 16px;
 }
 body a {
-  color: #2eb6d1;
+  color: #a5e200;
   text-decoration: none;
 }
 body a:hover {
-  color: #238a9e;
+  color: #88ba00;
 }
 body .overlay {
   position: absolute;
@@ -11389,7 +11389,7 @@ header.header-image .header-content .header-content-inner h5 {
   color: #a5e200;
 }
 .t108-footer .footer-above .footer-col .tweets a:hover {
-  color: #238a9e;
+  color: #88ba00;
 }
 .t108-footer .footer-above a {
   text-decoration: none;
@@ -11435,8 +11435,8 @@ header.header-image .header-content .header-content-inner h5 {
 /*==========  5.1 - Buttons  ==========*/
 .btn-primary {
   color: #ffffff;
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
   text-transform: uppercase;
   padding: 10px 12px;
   margin-bottom: 24px;
@@ -11444,8 +11444,8 @@ header.header-image .header-content .header-content-inner h5 {
 
 .btn-primary:hover {
   color: #ffffff;
-  background-color: #238a9e;
-  border-color: #238a9e;
+  background-color: #88ba00;
+  border-color: #88ba00;
 }
 
 .btn-default {
@@ -11463,16 +11463,16 @@ header.header-image .header-content .header-content-inner h5 {
 
 .btn-success {
   color: #ffffff;
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
   text-transform: uppercase;
   padding: 10px 12px;
 }
 
 .btn-success:hover {
   color: #ffffff;
-  background-color: #238a9e;
-  border-color: #238a9e;
+  background-color: #88ba00;
+  border-color: #88ba00;
 }
 
 /***/
@@ -11598,23 +11598,23 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   text-decoration: none;
 }
 #blog a:hover h4 {
-  color: #2eb6d1;
+  color: #a5e200;
 }
 #blog .pager {
   margin-bottom: 0;
   margin-top: 48px;
 }
 #blog .pager a {
-  color: #2eb6d1;
-  border-color: #2eb6d1;
+  color: #a5e200;
+  border-color: #a5e200;
   background-color: #ffffff;
   border-radius: 4px;
   padding: 6px 12px;
   width: 108px;
 }
 #blog .pager a:hover {
-  color: #238a9e;
-  border-color: #238a9e;
+  color: #88ba00;
+  border-color: #88ba00;
   background-color: #ffffff;
 }
 #blog .btn-primary {
@@ -11833,7 +11833,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   transition: all 0.3s;
 }
 .t108-one-page #team .container ul.social-buttons li a:hover, .t108-one-page #team .container ul.social-buttons li a:focus, .t108-one-page #team .container ul.social-buttons li a:active {
-  background-color: #2eb6d1;
+  background-color: #a5e200;
 }
 @media (max-width: 768px) {
   .t108-one-page #team .container ul.social-buttons {
@@ -12375,12 +12375,12 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   }
 }
 #interactive-elements #buttons .buttons-round .btn-primary, #interactive-elements #buttons .buttons-round .btn-success {
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
 }
 #interactive-elements #buttons .buttons-round .btn-primary:hover, #interactive-elements #buttons .buttons-round .btn-success:hover {
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
 }
 #interactive-elements #buttons .buttons-round .btn-primary {
   width: 156px;
@@ -12390,12 +12390,12 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   font-size: 13px;
 }
 #interactive-elements #buttons .buttons-round .buttons-hover .btn-primary, #interactive-elements #buttons .buttons-round .buttons-hover .btn-success {
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
 }
 #interactive-elements #buttons .buttons-round .buttons-hover .btn-primary:hover, #interactive-elements #buttons .buttons-round .buttons-hover .btn-success:hover {
-  background-color: #238a9e;
-  border-color: #238a9e;
+  background-color: #88ba00;
+  border-color: #88ba00;
 }
 @media (max-width: 768px) {
   #interactive-elements #buttons .buttons-round {
@@ -12424,13 +12424,13 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   }
 }
 #interactive-elements #buttons .rectangle-buttons .btn-primary, #interactive-elements #buttons .rectangle-buttons .btn-success {
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
   border-radius: 0px;
 }
 #interactive-elements #buttons .rectangle-buttons .btn-primary:hover, #interactive-elements #buttons .rectangle-buttons .btn-success:hover {
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
 }
 #interactive-elements #buttons .rectangle-buttons .btn-primary {
   width: 156px;
@@ -12440,13 +12440,13 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   font-size: 13px;
 }
 #interactive-elements #buttons .rectangle-buttons .buttons-hover .btn-primary, #interactive-elements #buttons .rectangle-buttons .buttons-hover .btn-success {
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
   border-radius: 0px;
 }
 #interactive-elements #buttons .rectangle-buttons .buttons-hover .btn-primary:hover, #interactive-elements #buttons .rectangle-buttons .buttons-hover .btn-success:hover {
-  background-color: #238a9e;
-  border-color: #238a9e;
+  background-color: #88ba00;
+  border-color: #88ba00;
 }
 @media (max-width: 768px) {
   #interactive-elements #buttons .rectangle-buttons {
